@@ -25,8 +25,8 @@ Busco un equipo en **CDMX o remoto** donde pueda seguir entregando sistemas crí
 
 | Área | Qué hago |
 | :--- | :--- |
-| **Backend** | APIs REST, Spring Boot, autenticación JWT, PostgreSQL, arquitectura hexagonal y microservicios |
-| **Frontend** | Interfaces con React, TypeScript y Tailwind CSS; también Angular, Symfony y PHP |
+| **Backend** | APIs REST con Java y Spring Boot, PHP y Symfony, autenticación JWT, PostgreSQL, arquitectura hexagonal y microservicios |
+| **Frontend** | Interfaces con React, TypeScript y Tailwind CSS; también Angular |
 | **Calidad** | Suites de API con Karate, carga con Gatling, contratos OpenAPI/Swagger |
 | **Operación** | Docker, Kafka, Git/Gitflow, revisión de código y prácticas DevSecOps |
 
@@ -48,23 +48,6 @@ Trabajo reciente, abierto y reproducible.
 | [**PawMarket**](https://github.com/Ale96Glz/PawMarket) | Backend de marketplace de mascotas. Monolito modular listo para evolucionar a microservicios. | Java · Spring Boot · OpenAPI |
 | [**Portafolio**](https://github.com/Ale96Glz/portafolio) | Sitio profesional con experiencia, stack y CV. Publicado en GitHub Pages. | React · TypeScript · Vite |
 
-<p align="center">
-  <a href="https://github.com/Ale96Glz/microservices-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ale96Glz&repo=microservices-ecommerce&theme=transparent&hide_border=true" alt="microservices-ecommerce" />
-  </a>
-  <a href="https://github.com/Ale96Glz/manga-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ale96Glz&repo=manga-site&theme=transparent&hide_border=true" alt="manga-site" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ale96Glz/bias_eval">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ale96Glz&repo=bias_eval&theme=transparent&hide_border=true" alt="bias_eval" />
-  </a>
-  <a href="https://github.com/Ale96Glz/PawMarket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ale96Glz&repo=PawMarket&theme=transparent&hide_border=true" alt="PawMarket" />
-  </a>
-</p>
-
 ---
 
 ## Experiencia
@@ -85,15 +68,6 @@ Sistemas en producción y auditorías técnicas. El detalle está en el [portafo
 
 - **Posgrado en Ciencias y Tecnologías de la Información** — UAM Iztapalapa *(en curso, 2024–2026)*
 - **Ingeniería en Ciencias Informáticas** — Universidad de las Ciencias Informáticas, La Habana *(2015–2020)*
-
----
-
-## Actividad
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ale96Glz&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale96Glz&layout=compact&theme=transparent&hide_border=true&hide=html,css,scss,awk&langs_count=6" alt="Lenguajes más usados" />
-</p>
 
 ---
 
