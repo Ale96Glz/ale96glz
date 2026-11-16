@@ -65,7 +65,7 @@ Since **2025** I have moved into software quality audits and test automation. At
 
 <br><br>
 
-<img src="assets/logos/qa-strip.png" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
+<img src="assets/logos/qa-strip.png" width="650" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
 
 </div>
 

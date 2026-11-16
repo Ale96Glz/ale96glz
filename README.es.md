@@ -65,7 +65,7 @@ Desde **2025** he incursionado en auditorías de calidad de software y en prueba
 
 <br><br>
 
-<img src="assets/logos/qa-strip.png" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
+<img src="assets/logos/qa-strip.png" width="650" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
 
 </div>
 
