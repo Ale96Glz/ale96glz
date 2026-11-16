@@ -2,79 +2,116 @@
 
 # Alejandro González Osorio
 
-**Ingeniero en Ciencias Informáticas** · full-stack, calidad y seguridad en sistemas regulados
+### Desarrollo full-stack. Desde 2025, pruebas automatizadas y auditoría de calidad.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ale96Glz.github.io-0F172A?style=flat-square)](https://Ale96Glz.github.io/portafolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--gonzález--osorio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-osorio-635671199/)
-[![Email](https://img.shields.io/badge/Email-ale96glz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ale96glz@gmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-111827?style=flat-square)](https://Ale96Glz.github.io/portafolio/cv/Alejandro_Gonzalez_Osorio_CV_ES.pdf)
+Ingeniero en Ciencias Informáticas.
 
-`Ciudad de México` · `Remoto` · `Español / English` · `Disponible`
+[![Portafolio](https://img.shields.io/badge/Sitio_web-Ale96Glz.github.io-0F172A?style=flat-square)](https://Ale96Glz.github.io/portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-osorio-635671199/)
+[![Correo](https://img.shields.io/badge/Correo-ale96glz%40gmail.com-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:ale96glz@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Descargar_PDF-111827?style=flat-square)](https://Ale96Glz.github.io/portafolio/cv/Alejandro_Gonzalez_Osorio_CV_ES.pdf)
+
+**Remoto**, proyectos por encargo o tiempo parcial, español e inglés (C1)
 
 </div>
 
 ---
 
-Ingeniero con **7+ años** construyendo y verificando software en entornos de gobierno, justicia, aduanas, seguros y voto electrónico. He digitalizado procesos manuales, automatizado pruebas de API y liderado auditorías de calidad y rendimiento.
+## Presentación
 
-Busco un equipo en **CDMX o remoto** donde pueda seguir entregando sistemas críticos: desarrollar, verificar y acompañar el producto hasta producción.
+Ingeniero informático con **8+ años** de desarrollo full-stack en los centros **CEIGE** y **CIGE** de la **UCI**. Allí construí y mantuve sistemas institucionales: el portal y la gestión interna de la Aduana (**VUA** y **GINA**), el registro digital de pólizas de **SISEN** y componentes de **Fiscalix** para la Fiscalía General. El alcance iba de requisitos a módulos críticos (recepción de documentos, altas de pólizas, procesos de justicia) con Java, Spring, PHP, Symfony, Oracle y PostgreSQL, bajo reglas de negocio estrictas.
+
+Desde **2025** he incursionado en auditorías de calidad de software y en pruebas automatizadas. En **SIVEI**, en la **UAM**, he sido auditor funcional, ingeniero de automatización y jefe de línea de calidad: suites de API con **Karate** frente a Swagger, carga y estrés con **Gatling**, y contraste de la interfaz contra votaciones sintéticas a escala de jornada (Python, Excel). En abierto, un ecommerce en microservicios y su suite de pruebas. Busco **proyectos remotos** de tiempo parcial o por encargo. Trabajo en **español** e **inglés** (certificación **C1**, EF SET).
 
 ---
 
-## Enfoque
+## Cómo puedo aportar
 
-| Área | Qué hago |
+| Servicio | Entregable |
 | :--- | :--- |
-| **Backend** | APIs REST con Java y Spring Boot, PHP y Symfony, autenticación JWT, PostgreSQL, arquitectura hexagonal y microservicios |
-| **Frontend** | Interfaces con React, TypeScript y Tailwind CSS; también Angular |
-| **Calidad** | Suites de API con Karate, carga con Gatling, contratos OpenAPI/Swagger |
-| **Operación** | Docker, Kafka, Git/Gitflow, revisión de código y prácticas DevSecOps |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,tailwind,php,postgres,docker,kafka,maven,github" alt="Stack: Java, Spring, Python, JavaScript, TypeScript, React, Angular, Tailwind, PHP, PostgreSQL, Docker, Kafka, Maven, GitHub" />
-</p>
+| **Automatización de APIs** | Suites Karate / REST Assured, contratos OpenAPI, reportes Allure |
+| **Rendimiento** | Diseño y ejecución de pruebas de carga y estrés (Gatling) |
+| **Auditoría funcional** | Datos sintéticos, contrastes UI/datos, hallazgos documentados |
+| **Desarrollo full-stack** | APIs Java/Spring, frontends React/Angular, Docker y CI |
 
 ---
 
-## Proyectos en GitHub
+## Stack técnico
 
-Trabajo reciente, abierto y reproducible.
+| Área | Herramientas |
+| :--- | :--- |
+| **Calidad** | Karate, REST Assured, Gatling, JUnit 5, Allure, OpenAPI/Swagger, Python, Excel |
+| **Backend** | Java, Spring Boot, PHP, Symfony, NestJS, PostgreSQL, Oracle, Kafka |
+| **Frontend** | React, TypeScript, Angular, Tailwind CSS |
+| **Operación** | Docker, Kubernetes, Kafka, Maven, Git/Gitflow, CI/CD, DevSecOps |
 
-| Proyecto | Qué es | Stack |
+<div align="center">
+
+<sub><b>Desarrollo y operación</b></sub><br>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="100%" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
+
+<br><br>
+
+<sub><b>Pruebas y contratos</b></sub><br>
+
+<img src="assets/logos/qa-strip.png" width="100%" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
+
+</div>
+
+---
+
+## Proyectos destacados
+
+Repositorios abiertos que respaldan experiencia en producto y en calidad.
+
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| [**microservices-ecommerce**](https://github.com/Ale96Glz/microservices-ecommerce) | Ecommerce en monorepo Maven: gateway, auth JWT, catálogo, pedidos, pagos y notificaciones. Eventos con Kafka, PostgreSQL y Docker Compose. | Java 21 · Spring Boot · Kafka |
-| [**MangaFlow**](https://github.com/Ale96Glz/manga-site) | Lector de manga con catálogo de MangaDex. Prototipo de producto con rutas, layout y diseño propio. | React · TypeScript · Tailwind |
-| [**bias_eval**](https://github.com/Ale96Glz/bias_eval) | Librería para medir sesgo en modelos de lenguaje (GPT-2, LLaMA, etc.) con CrowS-Pairs y StereoSet. | Python · Hugging Face |
-| [**PawMarket**](https://github.com/Ale96Glz/PawMarket) | Backend de marketplace de mascotas. Monolito modular listo para evolucionar a microservicios. | Java · Spring Boot · OpenAPI |
-| [**Portafolio**](https://github.com/Ale96Glz/portafolio) | Sitio profesional con experiencia, stack y CV. Publicado en GitHub Pages. | React · TypeScript · Vite |
+| [**microservices-ecommerce**](https://github.com/Ale96Glz/microservices-ecommerce) | Sistema de referencia en microservicios (gateway, auth JWT, pedidos, Kafka, PostgreSQL). | Java 21, Spring Boot, Kafka, Docker |
+| [**ecommerce-tests**](https://github.com/Ale96Glz/ecommerce-tests) | Suite SDET del laboratorio; módulos en [REST Assured](https://github.com/Ale96Glz/ecommerce-rest-assured) y [Gatling](https://github.com/Ale96Glz/ecommerce-gatling). | REST Assured, Gatling, Allure, Maven |
+| [**rest-assured-generator**](https://github.com/Ale96Glz/rest-assured-generator) | Plantillas para iniciar proyectos de prueba API con reportes. | REST Assured, Allure |
+| [**consultorio**](https://github.com/Ale96Glz/consultorio) | Gestión clínica: pacientes, agenda y expedientes. | NestJS, Prisma, Angular, PostgreSQL |
+| [**bias_eval**](https://github.com/Ale96Glz/bias_eval) | Evaluación de sesgo en LLM (CrowS-Pairs, StereoSet). | Python, Hugging Face |
+| [**portafolio**](https://github.com/Ale96Glz/portafolio) | Sitio profesional, CV y detalle de trayectoria. | React, TypeScript, Vite |
 
 ---
 
 ## Experiencia
 
-Sistemas en producción y auditorías técnicas. El detalle está en el [portafolio](https://Ale96Glz.github.io/portafolio/).
+Resumen de roles; cronología y contexto ampliado en el [portafolio](https://Ale96Glz.github.io/portafolio/).
 
-| Periodo | Rol | Organización |
-| :--- | :--- | :--- |
-| 2026 | Jefe de línea de verificación del procesamiento — voto electrónico (SIVEI) | Universidad Autónoma Metropolitana |
-| 2025 | Auditoría de APIs del sistema electoral (Karate, contratos OpenAPI) | Universidad Autónoma Metropolitana |
-| 2023 – 2024 | Desarrollador full-stack y asesor de seguridad informática (Fiscalix) | Fiscalía General de la República de Cuba |
-| 2020 – 2023 | Full-stack — registro y recepción de pólizas (SISEN) | Empresa de Seguros Nacionales |
-| 2018 – 2020 | Backend — recepción de documentos para entrada de mercancías (VUA / GINA) | Aduana General de la República de Cuba |
+| Periodo | Rol | Tecnologías | Organización |
+| :--- | :--- | :--- | :--- |
+| Ene a May 2026 | Jefe de línea de verificación / aseguramiento de calidad (SIVEI) | Java, Spring Boot, Karate, Gatling, OpenAPI | UAM |
+| Ago a Dic 2025 | Ingeniero de automatización de QA, APIs (SIVEI) | Karate, Gatling, OpenAPI/Swagger, Java | UAM |
+| May 2025 | Auditor funcional y de frontend (SIVEI) | Python, Excel, JavaScript, HTML (UI) | UAM |
+| 2023 a 2024 | Full-stack y asesoría de seguridad (Fiscalix) | Java, Spring, PHP, Symfony, PostgreSQL | Fiscalía General de Cuba |
+| 2020 a 2023 | Full-stack, registro de pólizas (SISEN) | Java, Spring, PHP, Oracle | Empresa de Seguros Nacionales |
+| 2018 a 2020 | Backend, gestión aduanera (VUA / GINA) | Java, Spring, PHP, Oracle | Aduana General de Cuba |
+
+**SIVEI, auditoría funcional (may 2025)**
+
+- Votaciones sintéticas con **Python** (variables y volumen de jornada nacional).
+- Conjuntos y visualizaciones en **Excel** para contrastar datos frente a la interfaz.
+- Captura masiva en frontend y registro de discrepancias en cálculo, ordenamiento y proyección de ganadores.
 
 ---
 
 ## Formación
 
-- **Posgrado en Ciencias y Tecnologías de la Información** — UAM Iztapalapa *(en curso, 2024–2026)*
-- **Ingeniería en Ciencias Informáticas** — Universidad de las Ciencias Informáticas, La Habana *(2015–2020)*
+| Estudio | Institución | Estado |
+| :--- | :--- | :--- |
+| Maestría en Ciencias y Tecnologías de la Información | UAM Iztapalapa | En curso (2024-2026) |
+| Ingeniería en Ciencias Informáticas | Universidad de las Ciencias Informáticas, La Habana | 2015-2020 |
+| EF SET English Certificate (67/100) | Certificación internacional | C1 Proficient |
 
 ---
 
 <div align="center">
 
-**Abierto a conversar** sobre roles full-stack, backend Java/Spring o calidad en sistemas críticos.
+### Contacto
 
-[Portafolio](https://Ale96Glz.github.io/portafolio/) · [LinkedIn](https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-osorio-635671199/) · [ale96glz@gmail.com](mailto:ale96glz@gmail.com)
+Colaboraciones en automatización de pruebas, auditorías de API/rendimiento o desarrollo en sistemas críticos.
+
+[Portafolio](https://Ale96Glz.github.io/portafolio/) | [LinkedIn](https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-osorio-635671199/) | [ale96glz@gmail.com](mailto:ale96glz@gmail.com)
 
 </div>
