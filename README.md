@@ -56,15 +56,14 @@ Since **2025** I have moved into software quality audits and test automation. At
 
 <div align="center">
 
-<sub><b>Development and operations</b></sub><br>
+<sub><b>Development and operations</b></sub>
+<br>
 <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="100%" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
 
-<br><br>
+<br>
 
 <sub><b>Testing and contracts</b></sub>
-
-<br><br>
-
+<br>
 <img src="assets/logos/qa-strip.png" width="650" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
 
 </div>
