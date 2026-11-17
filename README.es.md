@@ -56,15 +56,22 @@ Desde **2025** he incursionado en auditorías de calidad de software y en prueba
 
 <div align="center">
 
-<sub><b>Desarrollo y operación</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="100%" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
-
-<br>
-
-<sub><b>Pruebas y contratos</b></sub>
-<br>
+<table>
+<tbody>
+<tr>
+<td align="center">
+<h6 align="center">Desarrollo y operación</h6>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="650" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<h6 align="center">Pruebas y contratos</h6>
 <img src="assets/logos/qa-strip.png" width="650" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
+</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 

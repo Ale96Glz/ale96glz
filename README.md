@@ -56,15 +56,22 @@ Since **2025** I have moved into software quality audits and test automation. At
 
 <div align="center">
 
-<sub><b>Development and operations</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="100%" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
-
-<br>
-
-<sub><b>Testing and contracts</b></sub>
-<br>
+<table>
+<tbody>
+<tr>
+<td align="center">
+<h6 align="center">Development and operations</h6>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,nestjs,tailwind,php,postgres,docker,kafka,k8s,maven,github&perline=8&theme=dark&gap=24" width="650" alt="Java, Spring, Python, JavaScript, TypeScript, React, Angular, NestJS, Tailwind, PHP, PostgreSQL, Docker, Kafka, Kubernetes, Maven, GitHub" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<h6 align="center">Testing and contracts</h6>
 <img src="assets/logos/qa-strip.png" width="650" alt="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" title="Karate, Gatling, JUnit 5, Allure, REST Assured, OpenAPI, Excel" />
+</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
